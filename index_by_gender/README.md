@@ -1,0 +1,1 @@
+Simple example showing how to index a list of items by a certain trait (for example gender) and then only load items from that category (as opposed to loading the entire list and filtering it manually)
